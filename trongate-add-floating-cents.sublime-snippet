@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$number_format(\$${1:your_amount}, 2);
+]]></content>
+<tabTrigger>tgafc</tabTrigger>
+<description>Trongate Add Floating Cents Function (Two Variables Passed)</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

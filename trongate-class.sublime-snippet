@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+class ${1:MyClass} extends Trongate {
+    ${2:Your code goes here.}
+}
+]]></content>
+<tabTrigger>tgc</tabTrigger>
+<description>Trongate class snippet</description>
+<scope>embedding.php text.html.basic</scope>
+</snippet>
