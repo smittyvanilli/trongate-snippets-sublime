@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+echo form_submit('submit', 'Submit');
+]]></content>
+<tabTrigger>tgefs</tabTrigger>
+<description>Trongate Echo Form Submit Function</description>
+<scope>embedding.php, text.html.basics</scope>
+</snippet>

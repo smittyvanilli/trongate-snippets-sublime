@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+echo form_label('${1:your_label}');
+]]></content>
+<tabTrigger>tgefl</tabTrigger>
+<description>Trongate Echo Form Label Function</description>
+<scope>source.php, embedding.php, text.html.basic</scope>
+</snippet>
