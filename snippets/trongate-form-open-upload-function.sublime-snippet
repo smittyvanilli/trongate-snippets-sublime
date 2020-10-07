@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+form_open_upload(\$${1:form_location}, \$${2:attributes}, \$${3:additional_code});
+]]></content>
+<tabTrigger>tgfou</tabTrigger>
+<description>Trongate Form Open Upload Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
