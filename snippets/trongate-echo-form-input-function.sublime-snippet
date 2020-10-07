@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+echo form_input('${1:form_name}');
+]]></content>
+<tabTrigger>tgefi</tabTrigger>
+<description>Trongate Echo Form Input Function</description>
+<scope>source.php, embedding.php, text.html.basic</scope>
+</snippet>
