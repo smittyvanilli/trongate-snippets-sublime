@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-echo form_textarea('${1:your_text}');
-]]></content>
-<tabTrigger>tgeft</tabTrigger>
-<description>Trongate Form Textarea Function</description>
-<scope>embedding.php, text.html.basic</scope>
-</snippet>
