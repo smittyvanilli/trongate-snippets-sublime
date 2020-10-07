@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-config[\$${1:your_variable1}] = \$${2:your_variable2};
-]]></content>
-<tabTrigger>tgcaa</tabTrigger>
-<description>Trongate Config Array Assignment</description>
-<scope>embedding.php, text.html.basic</scope>
-</snippet>

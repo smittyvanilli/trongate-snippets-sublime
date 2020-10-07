@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-anchor('${1:your_link}');$2
-]]></content>
-<tabTrigger>tga</tabTrigger>
-<description>Trongate Anchor Function</description>
-<scope>embedding.php, text.html.basic</scope>
-</snippet>
