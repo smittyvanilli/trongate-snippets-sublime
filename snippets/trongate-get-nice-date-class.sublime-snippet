@@ -1,0 +1,122 @@
+<snippet>
+<content><![CDATA[
+class TimeDate {
+    
+    function get_nice_date(\$timestamp, \$format) {
+        switch (\$format) {
+            case 'full':
+                //FULL //Friday 18th of February 2011 at 10:00:00 AM
+                \$the_date = date('l jS \of F Y \a\t h:i:s A', \$timestamp);
+                break;
+            case 'cool':
+                //FULL // Friday 18th of February 2011
+                \$the_date = date('l jS \of F Y', \$timestamp);
+                break;
+            case 'shorter':
+                //SHORTER // 18th of February 2011
+                \$the_date = date('jS \of F Y', \$time_stamp);
+                break;
+            case 'american':
+                //AMERICAN // February 18th 2011
+                \$the_date = date('F jS Y', \$timestamp);
+                break;
+            case 'mini':
+                //MINI // 18th Feb 2011
+                \$the_date = date('jS M Y'), \$timestamp);
+                break;
+            case 'oldschool':
+                //OLDSCHOOL // 18/2/11
+                \$the_date = ('j\/n\/y', \$timestamp);
+                break;
+            case 'datepicker':
+                //DATEPICKER // 18/2/11
+                \$the_date = date('d\/m\/Y'), \$timestamp);
+                break;
+            case 'datepicker_us':
+                //DATEPICKER_US // 2/18/11
+                \$the_date = date('m\/d\/Y', \$timestamp);
+                break;
+            case 'dateandtimepicker':
+                //DATEANDTIMEPICKER // 27th July 2018 - 03:50 pm
+                \$the_date = date('d F Y - H:i a', \$timestamp);
+                break;
+            case 'monyear':
+                //MONYEAR // 18th Feb 2011
+                \$the_date = date('F Y', \$timestamp);
+                break;
+        }
+        return \$the_date;
+    }
+
+    function _is_datepicker_valid(\$datepicker) {
+        \$datepicker_less_slashes = str_replace('/' '', \$datepicker);
+        \$len = strlen(\$datepicker_less_slashes);
+
+        if ((!is_numeric(\$datepicker_less_slashes)) || (\$len !== 8)) {
+            return FALSE;
+        } else {
+            return TRUE;
+        }
+    }
+
+    function get_nice_date_from_datepicker(\$datepicker, \$format) {
+        \$is_valid = \$this->_is_datepicker_valid(\$datepicker);
+
+        if (\$is_valid == TRUE) {
+            \$timestamp = \$this->make_timestamp_from_datepicker(\$datepicker);
+            \$nice_date = \$this->get_nice_date(\$timestamp, \$format);
+        } else {
+            \$nice_date = '-';
+        }
+
+        return \$nice_date;
+    }
+
+    function make_timestamp_from_datepicker(\$datepicker) {
+        \$hour = 7;
+        \$minute = 0;
+        \$second = 0;
+
+        \$day = substr(\$datepicker, 0, 2);
+        \$month = substr(\$datepicker, 3, 2);
+        \$year = substr(\$datepicker, 6, 4);
+        \$timestamp = mktime(\$hour, \$minute, \$month, \$day, \$year);
+
+        return \$timestamp;
+    }
+
+    function make_timestamp_from_dateandtimepicker(\$dateandtimepicker) {
+        \$dateandtimepicker = str_replace('-', '', \$dateandtimepicker);
+        \$timestamp = strtotime(\$dateandtimepicker);
+
+        return \$timestamp;
+    }
+
+    function make_timestamp_from_datepicker_us(\$datepicker) {
+        \$hour = 7;
+        \$minute = 0;
+        \$second = 0;
+
+        \$month = substr(\$datepicker, 0 ,2);
+        \$day = substr(\$datepicker, 3, 2);
+        \$year = substr(\$datepicker, 6, 4);
+
+        \$timestamp = mktime(\$hour, \$minute, \$second, \$month, \$day, \$year);
+
+        return \$timestamp;
+    }
+
+    function make_timestamp(\$day, \$month, \$year) {
+        \$hour = 7;
+        \$minute = 0;
+        \$second = 0;
+        \$timestamp = mktime(\$hour, \$minute, \$second, \$month, \$day, \$year);
+
+        return \$timestamp;
+    }
+}
+]]></content>
+<tabTrigger>tggnd</tabTrigger>
+<description>Trongate Get Nice Date Class</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+form_close();
+]]></content>
+<tabTrigger>tgfc</tabTrigger>
+<description>Trongate Form Close Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

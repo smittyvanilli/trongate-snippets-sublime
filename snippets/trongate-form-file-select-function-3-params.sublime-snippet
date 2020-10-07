@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+form_file_select('${1:form_name}', '${2:form_attributes}', '${2:form_additional_code}');
+]]></content>
+<tabTrigger>tgffs3</tabTrigger>
+<description>Trongate Form File Select Function (Three Variables Passed)</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
