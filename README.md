@@ -36,7 +36,7 @@ https://www.stevenmilley.com/sca/tg-snippets/readme.html
 #### Table of Trongate snippets:
 | Snippet Name | Shortcut | Code | Characters saved |
 | ------------- | ------------- | ------------- | ------------- |
-| Trongate Add Floating Cents Function (Two Variables Passed) | tgafc + &lt;Tab&gt; + your amount in dollars | `$number_format($your_amount, 2);` | 15 |
+| Trongate Add Floating Cents Function (Two Variables Passed) | tgafc + &lt;Tab&gt; + your amount in dollars | `number_format($your_amount, 2);` | 15 |
 | Trongate Anchor Function | tga + &lt;Tab&gt; + your link | `anchor('your_link');` | 7 |
 | Trongate Class | tgc + &lt;Tab&gt; + Enter Your Classname + &lt;Tab&gt; + Enter your Class statements | `class MyClass extends Trongate { Your code goes here. }` | 25 |
 | Trongate Config Array Assignment | tgcaa + &lt;Tab&gt; + your first variable name + &lt;Tab&gt; + your second variable name | `config[$your_variable1] = $your_variable2;` | 8 |
