@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:your_variable} = ${2:your_expression};
+]]></content>
+<tabTrigger>tgle</tabTrigger>
+<description>Trongate Logic Expression</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<?= BASE_URL ?>$1
+]]></content>
+<tabTrigger>tghbu</tabTrigger>
+<description>Trongate HTML Baseurl</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
