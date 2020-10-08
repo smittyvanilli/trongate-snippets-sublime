@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<?= flashdata() ?>$1
+]]></content>
+<tabTrigger>tghfd</tabTrigger>
+<description>Trongate HTML Flash Data</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
