@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+if (${1:condition}) {
+   ${2:if-statements};
+} elseif (${3:elseif-condition}) {
+   ${4:elseif-statements};
+} else {
+   ${5:else-statements};
+}
+]]></content>
+<tabTrigger>tglei</tabTrigger>
+<description>Trongate Logic If Elseif</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
