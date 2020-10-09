@@ -33,6 +33,10 @@ And for a more comprehensive view of the HTML snippets and ones I'm transferring
 Smitty's Trongate Snippets in HTML
 https://www.stevenmilley.com/sca/tg-snippets/readme.html
 
+## Demonstration of a Trongate Snippet
+
+![Trongate Snippet Demo](demo/demo1.gif)
+
 #### Table of Trongate snippets:
 | Snippet Name | Shortcut | Code | Characters saved |
 | ------------- | ------------- | ------------- | ------------- |
