@@ -35,7 +35,7 @@ https://www.stevenmilley.com/sca/tg-snippets/readme.html
 
 ## Demonstration of a Trongate Snippet
 
-![Trongate Snippet Demo](demo/demo1.gif)
+![Trongate Snippet Demo](demo/tg-snippets-demo1.gif)
 
 #### Table of Trongate snippets:
 | Snippet Name | Shortcut | Code | Characters saved |
