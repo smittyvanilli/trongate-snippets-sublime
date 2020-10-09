@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->model->delete(${1:id}, '${2:tableName}');
+]]></content>
+<tabTrigger>tgmd</tabTrigger>
+<description>Trongate Model Delete Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

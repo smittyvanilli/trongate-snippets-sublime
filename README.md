@@ -19,7 +19,9 @@ with Trongate, companion tools, and these snippets, there is no doubt you can cr
 
 Of course, recommendations are always appreciated inside the forum, if you would like some improvements. Guys and gals at the academy, these are your passports to having lightning speed in the sky.
 
-When you use these snippets with Sublime Text within HTML Files, or HTML within PHP, simply use the less than sign(<). As soon you start typing, it will display all the snippets. If it is directly within PHP itself, it should automatically show all of the Trongate Snippets as soon as you type. VSCode snippets will be added after I finish these snippets and will create a "school of Trongate Snippets". Be sure to download the latest snippets!
+When you use these snippets with Sublime Text within HTML Files, or HTML within PHP, simply use the less than sign(<). As soon you start typing, it will display all the snippets. If it is directly within PHP itself, it should automatically show all of the Trongate Snippets as soon as you type. There is now a VSCode extension thanks to Simon and Jake:
+
+[Jake and Simon's VSCode Extension](https://marketplace.visualstudio.com/items?itemName=jc-sf.trongate)
 
 
 ## Other news
@@ -30,14 +32,16 @@ Once the time is ripe, there are upcoming lessons, so stay tuned for that!
 
 And for a more comprehensive view of the HTML snippets and ones I'm transferring to this Github account:
 
-Smitty's Trongate Snippets in HTML
-https://www.stevenmilley.com/sca/tg-snippets/readme.html
+[Smitty's Trongate Snippets in HTML](https://www.stevenmilley.com/sca/tg-snippets/readme.html)
 
-## Demonstration of a Trongate Snippet
+## Trongate Snippets
+
+### Demonstration of a Trongate Snippet
 
 ![Trongate Snippet Demo](demo/tg-snippets-demo1.gif)
 
-#### Table of Trongate snippets:
+### Table of Trongate snippets
+
 | Snippet Name | Shortcut | Code | Characters saved |
 | ------------- | ------------- | ------------- | ------------- |
 | Trongate Add Floating Cents Function (Two Variables Passed) | tgafc + &lt;Tab&gt; + your amount in dollars | `number_format($your_amount, 2);` | 15 |
@@ -60,8 +64,13 @@ https://www.stevenmilley.com/sca/tg-snippets/readme.html
 | Trongate HTML Validation Errors | tghve + &lt;Tab&gt; | `<?= validation_errors(); ?>`  | 21 |
 | Trongate HTML Variable | tghv + &lt;Tab&gt; + Press &lt;Tab&gt; to move the cursor after the closing PHP tag | `<?= $your_variable ?>`  | 3 |
 | Trongate Logic Expression | tgle + &lt;Tab&gt; + enter your value + Press &lt;Tab&gt; + enter your expression | `your_variable = your_expression;`  | -1 |
-| Trongate Logic If Else | tglie + &lt;Tab&gt; + enter your IF condition + Press &lt;Tab&gt; + enter the code inside the condition + Press &lt;Tab&gt; + enter the code for the else condition | if (condition) {<br>&nbsp;&nbsp;&nbsp;if-statements;} else {<br>&nbsp;&nbsp;&nbsp;else-statements;} | 26 |
+| Trongate Logic If Else | tglie + &lt;Tab&gt; + enter your IF condition + Press &lt;Tab&gt; + enter the code inside the condition + Press &lt;Tab&gt; + enter the code for the else condition | if (condition) {<br>&nbsp;&nbsp;&nbsp;if-statements;<br>} else {<br>&nbsp;&nbsp;&nbsp;else-statements;<br>} | 26 |
 | Trongate Logic If ElseIf | tglei + &lt;Tab&gt; + enter your IF condition + Press &lt;Tab&gt; + enter your code inside the condition + Press &lt;Tab&gt; + enter your ELSEIF condition + Press &lt;Tab&gt; + enter the code for the ELSEIF condition + Press &lt;Tab&gt; + enter your code for the ELSE condition | if (condition) {<br>&nbsp;&nbsp;&nbsp;if-statements;<br>} elseif (elseif-condition) {<br>&nbsp;&nbsp;&nbsp;elseif-statements;<br>} else {<br>&nbsp;&nbsp;&nbsp;else-statements;<br>} | 19 |
 | Trongate Method (No Variables Passed) | tgm + &lt;Tab&gt; + name your function + &lt;Tab&gt; to move the cursor to the method statements | function your_function() {<br>&nbsp;&nbsp;&nbsp;Your method code goes here.<br>} | 11 |
 | Trongate Method (One Variable Passed) | tgm1 + &lt;Tab&gt; + name your function + &lt;Tab&gt; + name of your variable to pass + &lt;Tab&gt; to move cursor to method statements | function your_function(your_variable1) {<br>&nbsp;&nbsp;&nbsp;Your method code goes here.} | 7 |
 | Trongate Method (Two Variables Passed)  | tgm2 + &lt;Tab&gt; + name your function + &lt;Tab&gt; + name of your first variable to pass + &lt;Tab&gt; + name of your second variable to pass &lt;Tab&gt; to move cursor to method statements | function your_function(your_variable1, your_variable2) {<br>&nbsp;&nbsp;&nbsp;Your method code goes here.<br>} | 8 |
+| Trongate Method (Three Variables Passed) | tgm3 + &lt;Tab&gt; + name your function + &lt;Tab&gt; + name of your first variable to pass + &lt;Tab&gt; + name of your second variable to pass &lt;Tab&gt; + name of your third variable to pass + &lt;Tab&gt; to move cursor to method statements | `function your_function(your_variable1, your_variable2, your_variable3) { Your method code goes here. }` | 11 |
+| Trongate Model Delete Function | tgmd + &lt;Tab&gt; + number / id in table to delete + &lt;Tab&gt; + table name for deletion | `$this->model->delete(id, 'tableName');` | 19 |
+| Trongate Model Get Function (Two Variables Passed) | tgmg + &lt;Tab&gt; + enter which way you want the model ordered by + &lt;Tab&gt; + your target table | `$this->model->get('order_by', 'target_tbl');` | 16 |
+| Trongate Model Get Function (Three Variables Passed) | tgmg3 + &lt;Tab> + enter which way you want the model ordered by + &lt;Tab&gt; + your target table &lt;Tab&gt; + your limit | `$this->model->get('order_by', 'target_tbl', 'limit');` | 22 |
+| Trongate Model Get Function (Four Variables Passed) | tgmg4 + &lt;Tab> + enter which way you want the model ordered by + &lt;Tab&gt; + your target table &lt;Tab&gt; + your limit + &lt;Tab&gt; + your offset | `$this->model->get('order_by', 'target_tbl', 'limit', 'offset');` | 26 |

@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+function ${1:your_function}(${2:variable1}, ${3:variable2}, ${4:variable3}) {
+    ${5:Your method code goes here.}
+}
+]]></content>
+<tabTrigger>tgm3</tabTrigger>
+<description>Trongate Method (Three Variables Passed)</description>
+<scope>embedding.php text.html.basic</scope>
+</snippet>

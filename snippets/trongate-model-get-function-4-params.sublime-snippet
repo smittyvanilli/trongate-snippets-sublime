@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->model->get('${1:orderByName}', '${2:target-table}');
+]]></content>
+<tabTrigger>tgfmg</tabTrigger>
+<description>Trongate Model Get Function (Four Variables Passed)</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
