@@ -21,44 +21,14 @@ Work on the 12th five Snippets ~12h #repo @smittyvanilli
 
 ## In Progress
 
-Check for pull requests
+Add a HISTORY to track history
 
 ## Done ✓
 
 [✓] Create my first TODO.md  
 [✓] Add readme.html link to stevenmilley.com
 [✓] Add CREDITS.md and update README.md
-
-### First 5 snippets ✓
-[✓] Check for pull requests
-[✓] Work on the 8th five snippets
-[✓] Add snippets to the first documentation
-[✓] Fixed documentation for first five snippets
-
-### Second 5 snippets ✓
-[✓] Check for pull requests ~1h #repo @smittyvanilli  
-[✓] Work on the 2nd five snippets
-[✓] Add snippets to the first documentation
-
-### Third 5 snippets ✓
-[✓] Check for pull requests  
-[✓] Work on the 3rd five snippets  
-[✓] Add snippets to the first documentation  
-
-### Fourth 5 snippets ✓
-[✓] Check for pull requests  
-[✓] Work on the 4th five snippets  
-[✓] Add snippets to the first documentation  
-
-### Fifth 5 snippets ✓
-[✓] Check for pull requests  
-[✓] Work on the 5th five snippets  
-[✓] Add snippets to the first documentation  
-
-### Sixth 5 snippets ✓
-[✓] Check for pull requests  
-[✓] Work on the 6th five snippets  
-[✓] Add snippets to the first documentation  
+[✓] Add a HISTORY.md to track history
 
 ### Seventh 5 snippets ✓
 [✓] Check for pull requests  
