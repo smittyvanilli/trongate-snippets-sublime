@@ -27,6 +27,7 @@ Check for pull requests
 
 [✓] Create my first TODO.md  
 [✓] Add readme.html link to stevenmilley.com
+[✓] Add CREDITS.md and update README.md
 
 ### First 5 snippets ✓
 [✓] Check for pull requests
