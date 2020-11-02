@@ -7,3 +7,4 @@ This project is made possible by the community surrounding it and especially the
 The following people have contributed to Smitty's Trongate snippets:
 
 -   [Jake Castelli](https://github.com/jakecastelli)
+-   [Simon Field](https://github.com/DaFa66)

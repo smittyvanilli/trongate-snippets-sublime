@@ -67,4 +67,4 @@ And for a more comprehensive view of the HTML snippets and ones I'm transferring
 -   [Speed Coding Academy](https://www.speedcodingacademy.com)
 -   [Trongate](https://trongate.io)
 -   [David Connelly](https://www.youtube.com/channel/UCtsojFV90CDh7uABAssuITw)
--   Simon, our Speed Coding "GodFather"
+-   [Simon - Our Speed Coding "GodFather"](https://github.com/DaFa66)
