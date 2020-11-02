@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Trongate%20Framework-eco--system-blue)
+
+
 # Read Me
 
 ## Smitty's Snippets for the Trongate framework
@@ -34,7 +37,7 @@ When you use these snippets with Sublime Text within HTML Files, or HTML within 
 
 ### Windows
 
-Copy snippet files to %APPDATA%/Sublime Text 3/Packages/Sublime Text 3 Snippets
+Copy snippet files to %APPDATA%\Sublime Text 3\Packages\User
 
 ### MacOSX
 Copy snippets files to ~/Library/Application Support/Sublime Text 3/Packages/Sublime Text 3 Snippets
@@ -44,7 +47,7 @@ Copy snippet files to ~/.config/sublime-text-3/Packages/Sublime Text 3 Snippets
 
 ## Usage
 
-![Trongate Snippet Demo](demo/tg-snippets-demo1.gif)
+![Trongate Snippet Demo](demo/tg-dem-sf.gif)
 
 ## Built With
 
