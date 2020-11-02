@@ -4,6 +4,8 @@ This project is made possible by the community surrounding it and especially the
 
 # Contributors
 
+![](https://img.shields.io/github/contributors/smittyvanilli/trongate-snippets-sublime)
+
 The following people have contributed to Smitty's Trongate snippets:
 
 -   [Jake Castelli](https://github.com/jakecastelli)

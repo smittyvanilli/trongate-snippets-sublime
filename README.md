@@ -1,9 +1,7 @@
 ![](https://img.shields.io/badge/Trongate%20Framework-eco--system-blue)
 
 
-# Read Me
-
-## Smitty's Snippets for the Trongate framework
+# Read Me - Smitty's Snippets for the Trongate framework
 
 ## About these snippets
 
