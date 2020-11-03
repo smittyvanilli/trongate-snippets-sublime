@@ -7,7 +7,7 @@
 
 ### All developers
 
-Do you feel tired of frameworks that break with new features and giving you too much space in your sink? Are your fingers getting sore from constant coding? Welcome to __Trongate Framework__, developed at _Speed Coding Academy_.
+Do you feel tired of frameworks that break with new features and filling you with too much space in your sink? Are your fingers getting sore from the constant coding and pounding of your keyboard? Well, welcome to The __Trongate Framework__, developed at [_Speed Coding Academy_](https://www.speedcodingacademy.com).
 
 These snippets make it __faster__ and __easier__ to use the __Trongate Framework__. This is important for developers who want their __work done__ in __faster time__.
 
@@ -24,7 +24,7 @@ Of course, recommendations from Speed Coding Academy are always appreciated insi
 
 Folks at the academy, these are your passports to having __keys__ to __operating at jet speeds__!
 
-When you use these snippets with _Sublime Text_ within HTML Files, or HTML within PHP, simply use the less than sign(<). As soon you start typing, it will display all the snippets. If it is directly within PHP itself, it should automatically show all of the _Trongate Snippets_ as soon as you type. There is now a _VSCode_ extension thanks to _Simon_ and _Jake_:
+When you use these snippets inside _Sublime Text_ within HTML files, or HTML within PHP, simply use the less than sign(<). As soon you start typing, it will display all the snippets. If it is directly within PHP itself, it should automatically show all of the _Trongate Snippets_ as soon as you type. There is now a _VSCode_ extension, thanks to _Simon_ and _Jake_!
 
 [Jake and Simon's VSCode Extension](https://marketplace.visualstudio.com/items?itemName=jc-sf.trongate)
 
