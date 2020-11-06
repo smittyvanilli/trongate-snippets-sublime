@@ -37,3 +37,8 @@
 | Trongate Model Update Function (Three Variables Passed) | tgmu + &lt;Tab&gt; + enter update id + &lt;Tab&gt; + enter record name + &lt;Tab&gt; + enter table name | `$this->model->update('update_id', 'record_name', 'table_name');` | 26 |
 | Trongate Module Load Function | tgmf + &lt;Tab&gt; + enter your module name | `$this->module('module_name');` | 14 |
 | Trongate PHP Split | tgps + &lt;Tab&gt; |  `<?php` | 3 |
+| Trongate Private Function (One Variable Passed) | tgpf1 + <Tab> + your function name + <Tab> + your passing variable | `$this->_your_function($your_variable); ` | 5 |
+| Trongate Private Function (Two Variables Passed) | tgpf2 + <Tab> + your function name + <Tab> + your first passing variable + <Tab> + your second passing variable | `$this->_your_function($your_variable1, $your_variable2);` | 8 |
+| Trongate Private Function (Two Variables Passed) | tgpf2 + <Tab> + your function name + <Tab> + your first passing variable + <Tab> + your second passing variable | `$this->_your_function($your_variable1, $your_variable2);` | 8 |
+| Trongate Private Function (Three Variables Passed) | tgpf3+ <Tab> + your function name + <Tab> + your first passing variable + <Tab> + your second passing variable + <Tab> + your third passing variable | `$this->_your_function($your_variable1, $your_variable2, $your_variable3);` | 11 |
+| Trongate Redirect Function | tgr + <Tab> + your target url + <Ctrl + Enter> | redirect('your_target_url'); | 8 |

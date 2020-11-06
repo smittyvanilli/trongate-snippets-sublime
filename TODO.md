@@ -30,7 +30,8 @@ Transfer Table of Snippets in README.md to SNIPPET-LIST.md
 -   [x] Add CREDITS.md and update README.md
 -   [x] Add a HISTORY.md to track history
 -   [x] Transfer Table of Snippets in README.md to SNIPPET-LIST.md
--   [x] Cleanup README and
+-   [x] Cleanup README
+-   [x] Updated GOALS with a 3rd goal
 
 ### Seventh 5 snippets ✓
 
