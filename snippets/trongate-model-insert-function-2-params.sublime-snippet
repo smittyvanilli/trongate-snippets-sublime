@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->model->insert('$data', '$target_table');
+]]></content>
+<tabTrigger>tgmi</tabTrigger>
+<description>Trongate Model Insert(2 Variables Passed)</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

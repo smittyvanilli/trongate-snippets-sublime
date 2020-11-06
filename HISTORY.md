@@ -6,6 +6,12 @@ yyyy-mm-dd
 
 ## Changes
 
+*2020-11-05*
+### Seventh 5 snippets ✓
+-   [x] Check for pull requests  
+-   [x] Work on the 7th five snippets  
+-   [x] Add snippets to the first documentation  
+
 *2020-10-29*
 -   [x] Add CREDITS.md and update README.md
 -   [x] Add a HISTORY.md on root directory to track history

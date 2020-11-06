@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->model->update('${1:update_id}', '${2:record_name}', '${3:table_name}');
+]]></content>
+<tabTrigger>tgmu</tabTrigger>
+<description>Trongate Model Update Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

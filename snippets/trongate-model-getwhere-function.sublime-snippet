@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->model->get_where(\$${1:idName}, '\$${2:tableName}');
+]]></content>
+<tabTrigger>tgmgw</tabTrigger>
+<description>Trongate Model Getwhere Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

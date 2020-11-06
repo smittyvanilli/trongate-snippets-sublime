@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->module('${1:module_name}');
+]]></content>
+<tabTrigger>tgml</tabTrigger>
+<description>Trongate Module Load Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

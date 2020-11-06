@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<?php
+]]></content>
+<tabTrigger>tgps</tabTrigger>
+<description>Trongate Php Split</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
