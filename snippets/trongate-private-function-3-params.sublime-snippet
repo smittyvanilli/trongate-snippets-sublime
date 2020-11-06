@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->_${1:myFunction}(\$${2:your_variable}, \$${3:your_variable2}, \$${4:your_variable3});
+]]></content>
+<tabTrigger>tgpf3</tabTrigger>
+<description>Trongate Private Function (Three Variables Passed)</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

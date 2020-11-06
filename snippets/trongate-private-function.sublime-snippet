@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->_${1:myFunction}($2);
+]]></content>
+<tabTrigger>tgpf</tabTrigger>
+<description>Trongate Private Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

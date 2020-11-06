@@ -40,9 +40,11 @@ When you use these snippets inside _Sublime Text_ within HTML files, or HTML wit
 Copy snippet files to %APPDATA%\Sublime Text 3\Packages\User
 
 ### MacOSX
+
 Copy snippet files to ~/Library/Application Support/Sublime Text 3/Packages/Sublime Text 3 Snippets
 
 ### Linux
+
 Copy snippet files to ~/.config/sublime-text-3/Packages/Sublime Text 3 Snippets
 
 ## Usage

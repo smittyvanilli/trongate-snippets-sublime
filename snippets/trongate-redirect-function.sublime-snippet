@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+redirect('${1:your_function_name}');
+]]></content>
+<tabTrigger>tgr</tabTrigger>
+<description>Trongate Redirect Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
