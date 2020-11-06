@@ -47,9 +47,8 @@ Copy snippet files to ~/.config/sublime-text-3/Packages/Sublime Text 3 Snippets
 
 ## Usage
 
-[![](http://img.youtube.com/vi/UQX0XCdRRWo/0.jpg)](http://www.youtube.com/watch?v=UQX0XCdRRWo "Demonstration of Smitty's Trongate Snippets")
-
 Demonstration of Smitty's Trongate Snippets
+[![](http://img.youtube.com/vi/UQX0XCdRRWo/0.jpg)](http://www.youtube.com/watch?v=UQX0XCdRRWo "Demonstration of Smitty's Trongate Snippets")
 
 ## Built With
 
