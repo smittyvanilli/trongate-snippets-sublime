@@ -32,6 +32,7 @@ Transfer Table of Snippets in README.md to SNIPPET-LIST.md
 -   [x] Transfer Table of Snippets in README.md to SNIPPET-LIST.md
 -   [x] Cleanup README
 -   [x] Updated GOALS with a 3rd goal
+-   [x] Added a NEWS section
 
 ### Seventh 5 snippets ✓
 
