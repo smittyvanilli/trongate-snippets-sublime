@@ -40,14 +40,14 @@ When you use these snippets inside _Sublime Text_ within HTML files, or HTML wit
 Copy snippet files to %APPDATA%\Sublime Text 3\Packages\User
 
 ### MacOSX
-Copy snippets files to ~/Library/Application Support/Sublime Text 3/Packages/Sublime Text 3 Snippets
+Copy snippet files to ~/Library/Application Support/Sublime Text 3/Packages/Sublime Text 3 Snippets
 
 ### Linux
 Copy snippet files to ~/.config/sublime-text-3/Packages/Sublime Text 3 Snippets
 
 ## Usage
 
-![Trongate Snippet Demo](demo/tg-dem-sf.gif)
+[![](http://img.youtube.com/vi/UQX0XCdRRWo/0.jpg)](http://www.youtube.com/watch?v=UQX0XCdRRWo "Demonstration of Smitty's Trongate Snippets")Demonstration of Smitty's Trongate Snippets
 
 ## Built With
 
