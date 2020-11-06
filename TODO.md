@@ -4,8 +4,6 @@ This is the list of things to do
 
 ## Todo
 
-Work on the 8th five snippets ~12h #repo @smittyvanilli  
-Add snippets to the first documentation ~12h #repo @smittyvanilli  
 Check for pull requests ~1h #repo @smittyvanilli  
 Work on the 9th five Snippets ~12h #repo @smittyvanilli  
 Add snippets to the first documentation ~12h #repo @smittyvanilli  
@@ -42,6 +40,6 @@ Transfer Table of Snippets in README.md to SNIPPET-LIST.md
 
 ### Eighth 5 snippets
 
-    [ ] Check for pull requests  
-    [ ] Work on the 7th five snippets
-    [ ] Add snippets to the first documentation  
+    [x] Check for pull requests  
+    [x] Work on the 7th five snippets
+    [x] Add snippets to the SNIPPETS-LIST
