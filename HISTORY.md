@@ -6,6 +6,12 @@ yyyy-mm-dd
 
 ## Changes
 
+*2020-11-07*
+### Eighth 5 snippets ✓
+-   [x] Check for pull requests  
+-   [x] Work on the 7th five snippets
+-   [x] Add snippets to the SNIPPETS-LIST
+
 *2020-11-06*
 ### Seventh 5 snippets ✓
 -   [x] Check for pull requests  
