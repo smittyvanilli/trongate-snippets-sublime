@@ -28,12 +28,6 @@ Add snippets to the tenth set on SNIPPETS-LIST
 -   [x] Updated GOALS with a 3rd goal
 -   [x] Added a NEWS section
 
-### Ninth 5 snippets ✓
-
--   [x] Check for pull requests   
--   [x] Work on the 9th five Snippets
--   [x] Add snippets to the SNIPPETS-LIST
-
 ### Tenth 5 snippets ✓
 
 -   [x] Check for pull requests
