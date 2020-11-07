@@ -42,8 +42,8 @@
 | Trongate Private Function (Two Variables Passed) | tgpf2 + &lt;Tab&gt; + your function name + &lt;Tab&gt; + your first passing variable + &lt;Tab&gt; + your second passing variable | `$this->_your_function($your_variable1, $your_variable2);` | 8 |
 | Trongate Private Function (Three Variables Passed) | tgpf3+ &lt;Tab&gt; + your function name + &lt;Tab&gt; + your first passing variable + &lt;Tab&gt; + your second passing variable + &lt;Tab&gt; + your third passing variable | `$this->_your_function($your_variable1, $your_variable2, $your_variable3);` | 11 |
 | Trongate Redirect Function | tgr + &lt;Tab&gt; + your target url + &lt;Ctrl + Enter&gt; | `redirect('your_target_url');` | 8 |
-| Trongate Set Flash Data Function (One Variable Passed) | tgsf + <Tab> + your message | `set_flashdata('your_message');` | 13 |
-| Trongate String Replace URL Function | tgsru + <Tab> + your first variable + <Tab> + your second variable + <Tab> + the name of your web addresss + <Tab> + your third variable | `str_replace('your_variable1', 'your_variable2', your_url_name(your_variable3));` | 18 |
-| Trongate Template Display Data (One Variable Passed) | tgtd + <Tab> + your view file or module name | `<?= Template::display('view_file_or_module_name') ?>` | 23 |
-| Trongate Template Function (No Variables Passed) | tgt + <Tab> + your template name | `$this->template('template_name');` | 16 |
-| Trongate Template Function (Two Variables Passed) | tgt2 + <Tab> + your template name + <Tab> + your view file or module name | `$this->template('template_name', 'view_file_or_module_name');` | 19 |
+| Trongate Set Flash Data Function (One Variable Passed) | tgsf + &lt;Tab&gt; + your message | `set_flashdata('your_message');` | 13 |
+| Trongate String Replace URL Function | tgsru + &lt;Tab&gt; + your first variable + &lt;Tab&gt; + your second variable + &lt;Tab&gt; + the name of your web addresss + &lt;Tab&gt; + your third variable | `str_replace('your_variable1', 'your_variable2', your_url_name(your_variable3));` | 18 |
+| Trongate Template Display Data (One Variable Passed) | tgtd + &lt;Tab&gt; + your view file or module name | `<?= Template::display('view_file_or_module_name') ?>` | 23 |
+| Trongate Template Function (No Variables Passed) | tgt + &lt;Tab&gt; + your template name | `$this->template('template_name');` | 16 |
+| Trongate Template Function (Two Variables Passed) | tgt2 + &lt;Tab&gt; + your template name + &lt;Tab&gt; + your view file or module name | `$this->template('template_name', 'view_file_or_module_name');` | 19 |
