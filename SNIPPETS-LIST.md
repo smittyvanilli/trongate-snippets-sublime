@@ -47,3 +47,8 @@
 | Trongate Template Display Data (One Variable Passed) | tgtd + &lt;Tab&gt; + your view file or module name | `<?= Template::display('view_file_or_module_name') ?>` | 23 |
 | Trongate Template Function (No Variables Passed) | tgt + &lt;Tab&gt; + your template name | `$this->template('template_name');` | 16 |
 | Trongate Template Function (Two Variables Passed) | tgt2 + &lt;Tab&gt; + your template name + &lt;Tab&gt; + your view file or module name | `$this->template('template_name', 'view_file_or_module_name');` | 19 |
+| Trongate Template Partial (No Variables Passed) | tgtp + <Tab> + your file name | `<?= Template::partial('your_filename') ?>` | 24 |
+| Trongate Template Partial (Two Variables Passed) | tgtp2 + <Tab> + your file name + <Tab> + your view file or module name' | `<?= Template::partial('your_filename', 'view_file_or_module_name') ?>` | 28 |
+| Trongate Url Segment Function |  tgus + <Tab> + your segment number | `$this->url->segment($your_segment_number);` | 18 |
+| Trongate Validation Helper Run Function | tgvhr + <Tab> + your variable name | `$your_variable_name = $this->validation_helper->run();` | 31 |
+| Trongate Validation Helper Set Rules Function (Three Variables Passed) | tgvhsr + <Tab> + your key + <Tab> + your label name + <Tab> + your rules | `$this->validation_helper->set_rules('your_key', 'your_label', 'your_rules');` | 39 |

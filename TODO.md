@@ -4,7 +4,6 @@ This is the list of things to do
 
 ## Todo
 
-Add snippets to the SNIPPETS-LIST
 Check for pull requests ~1h #repo
 Add snippets to the SNIPPETS-LIST @smittyvanilli  
 Work on the 11th five Snippets ~12h #repo @smittyvanilli  
@@ -17,7 +16,6 @@ Work on color highlighting for the snippets ~24h #repo @smittyvanilli
 ## In Progress
 
 Add snippets to the tenth set on SNIPPETS-LIST
-
 
 ## Done ✓
 
@@ -40,3 +38,4 @@ Add snippets to the tenth set on SNIPPETS-LIST
 
 -   [x] Check for pull requests
 -   [x] Work on the 10th five Snippets
+-   [x] Add snippets to the SNIPPETS-LIST
