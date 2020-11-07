@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->validation_helper->set_rules('${1:your_key}', '${2:your_label_name}', '${3:your_rules}');
+]]></content>
+<tabTrigger>tgvhsr</tabTrigger>
+<description>Trongate Validation Helper Set Rules</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

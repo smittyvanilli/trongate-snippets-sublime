@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<?= Template::partial('${1:your_file_name}'. '${2:your_view_file_or_module_name}') ?>
+]]></content>
+<tabTrigger>tgtp2</tabTrigger>
+<description>Trongate Template Partial</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

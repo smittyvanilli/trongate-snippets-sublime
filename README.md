@@ -53,7 +53,7 @@ Demonstration of Smitty's Trongate Snippets
 
 [![](http://img.youtube.com/vi/UQX0XCdRRWo/0.jpg)](http://www.youtube.com/watch?v=UQX0XCdRRWo "Demonstration of Smitty's Trongate Snippets")
 
-## Built With
+## Built Using
 
 -   [Sublime Text](https://www.sublimetext.com)
 -   [Atom](https://atom.io)

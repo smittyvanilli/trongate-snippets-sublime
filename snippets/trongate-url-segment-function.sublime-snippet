@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->url->segment(${1:your_segment_number});
+]]></content>
+<tabTrigger>tgus</tabTrigger>
+<description>Trongate Url Segment Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
