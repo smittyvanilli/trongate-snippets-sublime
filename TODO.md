@@ -35,11 +35,11 @@ Add snippets to the SNIPPETS-LIST
 
 ### Eighth 5 snippets ✓
 
-    [x] Check for pull requests  
-    [x] Work on the 7th five snippets
-    [x] Add snippets to the SNIPPETS-LIST
+-   [x] Check for pull requests  
+-   [x] Work on the 7th five snippets
+-   [x] Add snippets to the SNIPPETS-LIST
 
 ### Ninth 5 snippets ✓
 
-    [x] Check for pull requests   
-    [x] Work on the 9th five Snippets
+-   [x] Check for pull requests   
+-   [x] Work on the 9th five Snippets
