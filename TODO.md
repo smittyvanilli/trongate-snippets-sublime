@@ -4,22 +4,23 @@ This is the list of things to do
 
 ## Todo
 
-Check for pull requests ~1h #repo @smittyvanilli  
-Work on the 9th five Snippets ~12h #repo @smittyvanilli  
-Add snippets to the first documentation ~12h #repo @smittyvanilli  
+Add snippets to the SNIPPETS-LIST
 Check for pull requests ~1h #repo @smittyvanilli  
 Work on the 10th five Snippets ~12h #repo @smittyvanilli  
-Add snippets to the first documentation ~12h #repo @smittyvanilli  
-Check for pull requests ~1h #repo @smittyvanilli  
+Add snippets to the SNIPPETS-LIST
+Check for pull requests ~1h #repo
+Add snippets to the SNIPPETS-LIST @smittyvanilli  
 Work on the 11th five Snippets ~12h #repo @smittyvanilli  
-Add snippets to the first documentation ~12h #repo @smittyvanilli  
+Add snippets to the SNIPPETS-LIST
 Check for pull requests ~1h #repo @smittyvanilli  
 Work on the 12th five Snippets ~12h #repo @smittyvanilli
+Add snippets to the SNIPPETS-LIST
 Work on color highlighting for the snippets ~24h #repo @smittyvanilli
 
 ## In Progress
 
-Transfer Table of Snippets in README.md to SNIPPET-LIST.md
+Add snippets to the SNIPPETS-LIST
+
 
 ## Done ✓
 
@@ -32,14 +33,13 @@ Transfer Table of Snippets in README.md to SNIPPET-LIST.md
 -   [x] Updated GOALS with a 3rd goal
 -   [x] Added a NEWS section
 
-### Seventh 5 snippets ✓
-
--   [x] Check for pull requests  
--   [x] Work on the 7th five snippets  
--   [x] Add snippets to the first documentation  
-
-### Eighth 5 snippets
+### Eighth 5 snippets ✓
 
     [x] Check for pull requests  
     [x] Work on the 7th five snippets
     [x] Add snippets to the SNIPPETS-LIST
+
+### Ninth 5 snippets ✓
+
+    [x] Check for pull requests   
+    [x] Work on the 9th five Snippets

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+str_replace('${1:your_variable1}', '${2:your_variable2}', ${3:urlName}(${4:your_variable3)});
+]]></content>
+<tabTrigger>tgsru</tabTrigger>
+<description>Trongate String Replace Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

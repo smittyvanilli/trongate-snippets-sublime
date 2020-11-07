@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<?= Template::display('${1:your_variable}') ?>
+]]></content>
+<tabTrigger>tgtd</tabTrigger>
+<description>Trongate Template Display Data</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

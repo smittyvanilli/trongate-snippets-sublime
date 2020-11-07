@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+set_flashdata(${1:flashdataName});
+]]></content>
+<tabTrigger>tgsfd</tabTrigger>
+<description>Trongate Set Flash Data Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
