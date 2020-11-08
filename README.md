@@ -56,10 +56,3 @@ When you use these snippets inside _Sublime Text_ within HTML files, or HTML wit
 ## Miscellaneous tools
 
 [Jake and Simon's VSCode Extension](https://marketplace.visualstudio.com/items?itemName=jc-sf.trongate)
-
-## Acknowledgments
-
--   [Speed Coding Academy](https://www.speedcodingacademy.com)
--   [Trongate](https://trongate.io)
--   [David Connelly](https://www.youtube.com/channel/UCtsojFV90CDh7uABAssuITw)
--   [Simon - Our Speed Coding "GodFather"](https://github.com/DaFa66)
