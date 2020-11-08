@@ -14,12 +14,12 @@
 Well, welcome to **`Smitty's Snippets to The Trongate Framework`**  
 a revolutionary new framework inspired at the [*Speed Coding Academy*](https://www.speedcodingacademy.com) & written by **`David Connelly`** *the* `Web Developer Extraordinaire!`
 
-These snippets will make you a **more productive**, **faster** developer, while having an **easier coding experience** while developing with *The Trongate Framework* and eco-system it provides.
+These snippets will make you a **`more productive`**, **`faster`** developer, while having an **`easier coding experience`** while developing with *The Trongate Framework* and eco-system it provides.
 
 Check out both the [*Trongate website*](https://trongate.io) and the [*Trongate Framework*](https://github.com/davidjconnelly/trongate-framework) can be downloaded on Github.
 ***
 ### As a **founding member** at Speed Coding Academy  
-we are equipped with *`The Trongate Framework`*, companion tools, and now these snippets, **where you too can create anything you desire** at lightning fast speeds!  
+we are equipped with *`The Trongate Framework`*, companion tools, and now these snippets, **`where you too can create anything you desire`** at lightning fast speeds!  
 
 Recommendations from Speed Coding Academy are always appreciated inside the forum for improvements.
 
