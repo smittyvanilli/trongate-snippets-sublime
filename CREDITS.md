@@ -10,7 +10,6 @@ The following people have contributed to Smitty's Trongate snippets:
 
 -   [Jake Castelli](https://github.com/jakecastelli)
 -   [Simon Field](https://github.com/DaFa66)
--   [Simon - Our Speed Coding "GodFather"](https://github.com/DaFa66)
 
 ## Contributors to the Trongate Framework and eco-system
 
