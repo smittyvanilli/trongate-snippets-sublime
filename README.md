@@ -1,30 +1,32 @@
-![](https://img.shields.io/badge/Trongate%20Framework-eco--system-blue)
+![][1]
 
+# Smitty's Snippets for the Trongate Framework
 
-# Read Me - Smitty's Snippets for the Trongate Framework
+![TG-Snippets](https://user-images.githubusercontent.com/7813262/98464829-95578600-2219-11eb-8aa3-e85e483e35f0.png)
 
 ## About these snippets
 
 ### All developers
 
-Do you feel tired of frameworks that break with new features and filling you with bloat in your sink? Are your fingers getting tired from the constant coding and pressure of your keyboard and mouse?
+- Do you feel tired of frameworks that break with new features and filling your project with unnecessary bloat?
+- Are your fingers getting tired from constant coding and your brain trying to remember everything?
 
-Well, welcome to __Smitty's Snippets to The Trongate Framework__, a revolutionary framework inspired at the [_Speed Coding Academy_](https://www.speedcodingacademy.com).
+Well, welcome to **`Smitty's Snippets to The Trongate Framework`**  
+a revolutionary new framework inspired at the [*Speed Coding Academy*](https://www.speedcodingacademy.com) & written by **`David Connelly`** *the* `Web Developer Extraordinaire!`
 
-These snippets will make you a __more productive__, __faster__ developer, while having an __easier coding experience__ while developing with _The Trongate Framework_ and eco-system it provides.
+These snippets will make you a **more productive**, **faster** developer, while having an **easier coding experience** while developing with *The Trongate Framework* and eco-system it provides.
 
-Check out both the [__Trongate website__](https://trongate.io) and the [__Trongate Framework__](https://github.com/davidjconnelly/trongate-framework) can be downloaded on Github.
-
-### Speed Coding Academy
-
-As a __founding member__ at __Speed Coding Academy__, with _The Trongate Framework_, companion tools, and these snippets, __you can create anything you desire__ at lightning fast speeds! These are your __passports__ and __keys__!
+Check out both the [*Trongate website*](https://trongate.io) and the [*Trongate Framework*](https://github.com/davidjconnelly/trongate-framework) can be downloaded on Github.
+***
+### As a **founding member** at Speed Coding Academy  
+we are equipped with *`The Trongate Framework`*, companion tools, and now these snippets, **where you too can create anything you desire** at lightning fast speeds!  
 
 Recommendations from Speed Coding Academy are always appreciated inside the forum for improvements.
 
 ## Prerequisites
 
 -   [Trongate framework](https://github.com/davidjconnelly/trongate)
-
+-   [Sublime Text 3](https://www.sublimetext.com)
 
 ## Installation
 
@@ -42,11 +44,14 @@ Copy snippet files to ~/.config/sublime-text-3/Packages/Sublime Text 3 Snippets
 
 ## Usage
 
-When you use these snippets inside _Sublime Text_ within HTML files, or HTML within PHP, simply use the less than sign(<). As soon you start typing, it will display all the snippets. If it is directly within PHP itself, it should automatically show all of the _Trongate Snippets_ as soon as you type. There is now a _VSCode_ extension, thanks to _Simon_ and _Jake_!
+When you use these snippets inside *Sublime Text* within HTML files, or HTML within PHP, simply use the less than sign(<). As soon you start typing, it will display all the snippets. If it is directly within PHP itself, it should automatically show all of the *Trongate Snippets* as soon as you type. There is now a *VSCode* extension, thanks to *Simon* and *Jake*!
 
 ## Demonstration of the snippets
 
-[![](http://img.youtube.com/vi/UQX0XCdRRWo/0.jpg)](http://www.youtube.com/watch?v=UQX0XCdRRWo "Demonstration of Smitty's Trongate Snippets")
+![Smitty-demo](https://user-images.githubusercontent.com/7813262/98464399-c1bdd300-2216-11eb-934f-b882b448f95e.gif)
+
+***`Checkout the full demo on You Tube`***  
+[![](http://img.youtube.com/vi/UQX0XCdRRWo/0.jpg)](https://youtu.be/UQX0XCdRRWo "Demonstration of Smitty's Trongate Snippets")
 
 ## Built using
 
@@ -56,3 +61,5 @@ When you use these snippets inside _Sublime Text_ within HTML files, or HTML wit
 ## Miscellaneous tools
 
 [Jake and Simon's VSCode Extension](https://marketplace.visualstudio.com/items?itemName=jc-sf.trongate)
+
+[1]:https://img.shields.io/badge/Trongate%20Framework-eco--system-blue?logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAAQABADAREAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMDBAICAwAAAAAAAAAAAgEDBQQGBwgREiEAMRMUQWFx/8QAGQEAAQUAAAAAAAAAAAAAAAAABQABAgQH/8QAIREAAgEDBAMBAAAAAAAAAAAAAQIRAAMEBQYhMUFRcRL/2gAMAwEAAhEDEQA/ALrRjgTG1yY0lr7zXRRxR9xSDMXCDWGjJIYHtzaNVReRuFwRE98F81vdW5M+3lpY09iCgJaOe/fwc0Ps21iWoHWZpUt/DsXT35YROhEPPpT1FK6XL4yL1sv92/XvpNu7O193ZOoOcfKMt2DTXbKrytFaS8ewN6HE3ZlHKlLRQFoSPzQ0JUSwNr9kTFwlVpxdgbJVFdx7VUXwZree9kNaxbcs4hmjx12PNJR7rcdd1xxl9YfbatHINtVFPGVo1sjRhItG/UgicQFoRVVJUIt1TrpN/wAeBdtI2JlzdQyRAMcD7UnP6Ff/2Q==
