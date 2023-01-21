@@ -1,6 +1,8 @@
 <snippet>
 <content><![CDATA[
-\$this->_${1:myFunction}($2);
+function _${1:myFunction}() {
+   ${2:Your code goes here.}
+}
 ]]></content>
 <tabTrigger>tgpf</tabTrigger>
 <description>Trongate Private Function</description>
