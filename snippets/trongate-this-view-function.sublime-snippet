@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->view('${1:view_name}');
+]]></content>
+<tabTrigger>tgtvf</tabTrigger>
+<description>Trongate This View Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
