@@ -52,3 +52,4 @@
 | Trongate Url Segment Function |  tgus + &lt;Tab&gt; + your segment number | `$this->url->segment($your_segment_number);` | 18 |
 | Trongate Validation Helper Run Function | tgvhr + &lt;Tab&gt; + your variable name | `$your_variable_name = $this->validation_helper->run();` | 31 |
 | Trongate Validation Helper Set Rules Function (Three Variables Passed) | tgvhsr + &lt;Tab&gt; + your key + &lt;Tab&gt; + your label name + &lt;Tab&gt; + your rules | `$this->validation_helper->set_rules('your_key', 'your_label', 'your_rules');` | 39 |
+| Trongate This View Function | tgtvf + &lt;Tab&gt; + your view name | `$this->view('your_view');` | 16 |
