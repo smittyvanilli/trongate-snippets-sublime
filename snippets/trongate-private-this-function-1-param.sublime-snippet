@@ -2,7 +2,7 @@
 <content><![CDATA[
 \$this->_${1:myFunction}(\$${2:your_variable});
 ]]></content>
-<tabTrigger>tgpf1</tabTrigger>
-<description>Trongate Private Function (One Variable Passed)</description>
+<tabTrigger>tgptf1</tabTrigger>
+<description>Trongate Private This Function (One Variable Passed)</description>
 <scope>embedding.php, text.html.basic</scope>
 </snippet>
