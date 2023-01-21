@@ -37,10 +37,9 @@
 | Trongate Model Update Function (Three Variables Passed) | tgmu + &lt;Tab&gt; + enter update id + &lt;Tab&gt; + enter record name + &lt;Tab&gt; + enter table name | `$this->model->update('update_id', 'record_name', 'table_name');` | 26 |
 | Trongate Module Load Function | tgmf + &lt;Tab&gt; + enter your module name | `$this->module('module_name');` | 14 |
 | Trongate PHP Split | tgps + &lt;Tab&gt; |  `<?php` | 3 |
-| Trongate Private Function (One Variable Passed) | tgpf1 + &lt;Tab&gt; + your function name + &lt;Tab&gt; + your passing variable | `$this->_your_function($your_variable); ` | 5 |
-| Trongate Private Function (Two Variables Passed) | tgpf2 + &lt;Tab&gt; + your function name + &lt;Tab&gt; + your first passing variable + &lt;Tab&gt; + your second passing variable | `$this->_your_function($your_variable1, $your_variable2);` | 8 |
-| Trongate Private Function (Two Variables Passed) | tgpf2 + &lt;Tab&gt; + your function name + &lt;Tab&gt; + your first passing variable + &lt;Tab&gt; + your second passing variable | `$this->_your_function($your_variable1, $your_variable2);` | 8 |
-| Trongate Private Function (Three Variables Passed) | tgpf3+ &lt;Tab&gt; + your function name + &lt;Tab&gt; + your first passing variable + &lt;Tab&gt; + your second passing variable + &lt;Tab&gt; + your third passing variable | `$this->_your_function($your_variable1, $your_variable2, $your_variable3);` | 11 |
+| Trongate Private This Function (One Variable Passed) | tgptf1 + &lt;Tab&gt; + your function name + &lt;Tab&gt; + your passing variable | `$this->_your_function($your_variable);` | 4 |
+| Trongate Private This Function (Two Variables Passed) | tgptf2 + &lt;Tab&gt; + your function name + &lt;Tab&gt; + your first passing variable + &lt;Tab&gt; + your second passing variable | `$this->_your_function($your_variable1, $your_variable2);` | 7 |
+| Trongate Private This Function (Three Variables Passed) | tgptf3+ &lt;Tab&gt; + your function name + &lt;Tab&gt; + your first passing variable + &lt;Tab&gt; + your second passing variable + &lt;Tab&gt; + your third passing variable | `$this->_your_function($your_variable1, $your_variable2, $your_variable3);` | 10 |
 | Trongate Redirect Function | tgr + &lt;Tab&gt; + your target url + &lt;Ctrl + Enter&gt; | `redirect('your_target_url');` | 8 |
 | Trongate Set Flash Data Function (One Variable Passed) | tgsf + &lt;Tab&gt; + your message | `set_flashdata('your_message');` | 13 |
 | Trongate String Replace URL Function | tgsru + &lt;Tab&gt; + your first variable + &lt;Tab&gt; + your second variable + &lt;Tab&gt; + the name of your web addresss + &lt;Tab&gt; + your third variable | `str_replace('your_variable1', 'your_variable2', your_url_name(your_variable3));` | 18 |
