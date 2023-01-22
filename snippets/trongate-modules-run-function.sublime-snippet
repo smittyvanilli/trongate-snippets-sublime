@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<?= Modules::run('${1:module_name}/${2:function_name}') ?>
+]]></content>
+<tabTrigger>tgmrf</tabTrigger>
+<description>Trongate Modules Run Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
