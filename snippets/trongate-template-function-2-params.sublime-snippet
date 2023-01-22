@@ -1,8 +1,8 @@
 <snippet>
 <content><![CDATA[
-\$this->template('${1:view_file_or_module_name'}');
+\$this->template('${1:template_name'}, '${2:view_file_or_module_name}');
 ]]></content>
-<tabTrigger>tgt</tabTrigger>
-<description>Trongate Template Function</description>
+<tabTrigger>tgt2</tabTrigger>
+<description>Trongate Template Function(Two Parameters Passed)</description>
 <scope>embedding.php, text.html.basic</scope>
 </snippet>
