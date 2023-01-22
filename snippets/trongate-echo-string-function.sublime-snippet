@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+echo ('${1:string_name}');
+]]></content>
+<tabTrigger>tgesf</tabTrigger>
+<description>Trongate Echo String Function</description>
+<scope>source.php, embedding.php, text.html.basic</scope>
+</snippet>
