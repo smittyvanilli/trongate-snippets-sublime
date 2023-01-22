@@ -53,6 +53,7 @@
 | Trongate Template Function (Two Variables Passed) | tgt2 + &lt;Tab&gt; + your template name + &lt;Tab&gt; + your view file or module name | `$this->template('template_name', 'view_file_or_module_name');` | 19 |
 | Trongate Template Partial (No Variables Passed) | tgtp + &lt;Tab&gt; + your file name | `<?= Template::partial('your_filename') ?>` | 24 |
 | Trongate Template Partial (Two Variables Passed) | tgtp2 + &lt;Tab&gt; + your file name + &lt;Tab&gt; + your view file or module name' | `<?= Template::partial('your_filename', 'view_file_or_module_name') ?>` | 28 |
+| Trongate This Module Function | tgtmf + &lgt;Tab&gt; + your module name | `$this->module('your_module');` | 13 |
 | Trongate This View Function | tgtvf + &lt;Tab&gt; + your view name | `$this->view('your_view');` | 16 |
 | Trongate Url Segment Function |  tgus + &lt;Tab&gt; + your segment number | `$this->url->segment($your_segment_number);` | 18 |
 | Trongate Validation Helper Run Function | tgvhr + &lt;Tab&gt; + your variable name | `$your_variable_name = $this->validation_helper->run();` | 31 |
