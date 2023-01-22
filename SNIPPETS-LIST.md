@@ -12,7 +12,7 @@
 | Trongate Echo Form Input Function | tgefi + &lt;Tab&gt; + form name + &lt;Ctrl + Enter&gt; | `echo form_input('$form_name');`  | 15 |
 | Trongate Echo Form Label Function | tgefl + &lt;Tab&gt; + your label + &lt;Ctrl + Enter&gt; | `echo form_input('form_label');`  | 14 |
 | Trongate Echo Form Submit Function | tgefs + &lt;Tab&gt; + &lt;Ctrl&gt; + &lt;Enter&gt; | `echo form_submit('submit', 'Submit');`  | 31 |
-| Trongate Echo String | tges + &lt;Tab&gt; | `echo 'my_string';` | 4
+| Trongate Echo String Function | tgesf + &lt;Tab&gt; | `echo 'my_string';` | 3
 | Trongate Form Close Function | tgfc + &lt;Tab&gt; | `form_close();`  | 8 |
 | Trongate Form File Select Function (Two Variables Passed) | tgffs + &lt;Tab&gt; + form name + &lt;Tab&gt; + form attributes | `form_file_select('form_name', 'form_attributes');`  | 18 |
 | Trongate Form File Select Function (Three Variables Passed) | tgffs3 + &lt;Tab&gt; + form name + &lt;Tab&gt; + form attributes + &lt;Tab&gt; + form additional code | `form_file_select('form_name', 'form_attributes', 'form_additional_code');`  | 18 |
