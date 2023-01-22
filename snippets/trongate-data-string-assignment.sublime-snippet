@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+data['${1:view_file}'] = '${2:string_name}';
+]]></content>
+<tabTrigger>tgdsa</tabTrigger>
+<description>Trongate Data String Assignment</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
