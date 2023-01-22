@@ -37,6 +37,7 @@
 | Trongate Model Insert Function (Two Variables Passed) | tgmi + &lt;Tab&gt; + data + &lt;Tab&gt; + target table name | `$this->model->insert('data', 'target_tbl');` | 23 |
 | Trongate Model Update Function (Three Variables Passed) | tgmu + &lt;Tab&gt; + enter update id + &lt;Tab&gt; + enter record name + &lt;Tab&gt; + enter table name | `$this->model->update('update_id', 'record_name', 'table_name');` | 26 |
 | Trongate Module Load Function | tgmf + &lt;Tab&gt; + enter your module name | `$this->module('module_name');` | 14 |
+| Trongate Modules Run Function | tgmrf + &lt;Tab&gt; name of your module | `<?= Modules::run('module_name/function_name') ?>)` | 19 |
 | Trongate PHP Split | tgps + &lt;Tab&gt; |  `<?php` | 3 |
 | Trongate Private Function | tgpf + &lgt;Tab&gt; | `function _myFunction() { your code goes here }` | 15 |
 | Trongate Private This Function (One Variable Passed) | tgptf1 + &lt;Tab&gt; + your function name + &lt;Tab&gt; + your passing variable | `$this->_your_function($your_variable);` | 4 |
