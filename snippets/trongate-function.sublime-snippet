@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+function ${1:MyFunction}() {
+    ${2:Your code goes here.}
+}
+]]></content>
+<tabTrigger>tgf</tabTrigger>
+<description>Trongate Function snippet</description>
+<scope>embedding.php text.html.basic</scope>
+</snippet>
