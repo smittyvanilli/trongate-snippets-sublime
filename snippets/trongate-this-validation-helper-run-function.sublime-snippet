@@ -2,7 +2,7 @@
 <content><![CDATA[
 \$${1:variable_name} = \$this->validation_helper->run();$2
 ]]></content>
-<tabTrigger>tgvr</tabTrigger>
-<description>Trongate Validation Helper Run Function</description>
+<tabTrigger>tgtvhr</tabTrigger>
+<description>Trongate This Validation Helper Run Function</description>
 <scope>embedding.php, text.html.basic</scope>
 </snippet>
