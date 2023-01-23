@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-<?= validation_errors(); ?>
+<?= validation_errors() ?>
 ]]></content>
 <tabTrigger>tghve</tabTrigger>
 <description>Trongate HTML Validation Errors</description>
