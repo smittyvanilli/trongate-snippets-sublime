@@ -1,8 +1,8 @@
 <snippet>
 <content><![CDATA[
-<?= validation_errors();$1 ?>
+<?= validation_errors(); ?>
 ]]></content>
-<tabTrigger>tgve</tabTrigger>
+<tabTrigger>tghve</tabTrigger>
 <description>Trongate HTML Validation Errors</description>
 <scope>embedding.php, text.html.basic</scope>
 </snippet>
