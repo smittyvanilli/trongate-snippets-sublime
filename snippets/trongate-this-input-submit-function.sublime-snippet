@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->input->submit('submit', true);
+]]></content>
+<tabTrigger>tgtisf</tabTrigger>
+<description>Trongate This Input Submit Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
