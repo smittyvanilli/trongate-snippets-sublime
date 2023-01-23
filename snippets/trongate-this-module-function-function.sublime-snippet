@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->${1:your_module}->${2:your_function}();
+]]></content>
+<tabTrigger>tgtmff</tabTrigger>
+<description>Trongate This Module Function Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
