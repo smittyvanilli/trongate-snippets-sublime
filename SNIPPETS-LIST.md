@@ -32,7 +32,6 @@
 | Trongate Method (Two Variables Passed)  | tgm2 + &lt;Tab&gt; + name your function + &lt;Tab&gt; + name of your first variable to pass + &lt;Tab&gt; + name of your second variable to pass &lt;Tab&gt; to move cursor to method statements | function your_function(your_variable1, your_variable2) {<br>&nbsp;&nbsp;&nbsp;Your method code goes here.<br>} | 8 |
 | Trongate Method (Three Variables Passed) | tgm3 + &lt;Tab&gt; + name your function + &lt;Tab&gt; + name of your first variable to pass + &lt;Tab&gt; + name of your second variable to pass &lt;Tab&gt; + name of your third variable to pass + &lt;Tab&gt; to move cursor to method statements | `function your_function(your_variable1, your_variable2, your_variable3) { Your method code goes here. }` | 11 |
 | Trongate Model Delete Function | tgmd + &lt;Tab&gt; + number / id in table to delete + &lt;Tab&gt; + table name for deletion | `$this->model->delete(id, 'tableName');` | 19 |
-| Trongate Module Function Function | tgmff + &lt;Tab&gt; + your module\ + your function | `$this->your_module->your_function();` | 7 | 
 | Trongate Model Get Function (Two Variables Passed) | tgmg + &lt;Tab&gt; + enter which way you want the model ordered by + &lt;Tab&gt; + your target table | `$this->model->get('order_by', 'target_tbl');` | 16 |
 | Trongate Model Get Function (Three Variables Passed) | tgmg3 + &lt;Tabgt; + enter which way you want the model ordered by + &lt;Tab&gt; + your target table &lt;Tab&gt; + your limit | `$this->model->get('order_by', 'target_tbl', 'limit');` | 22 |
 | Trongate Model Get Function (Four Variables Passed) | tgmg4 + &lt;Tabgt; + enter which way you want the model ordered by + &lt;Tab&gt; + your target table &lt;Tab&gt; + your limit + &lt;Tab&gt; + your offset | `$this->model->get('order_by', 'target_tbl', 'limit', 'offset');` | 26 |
@@ -55,6 +54,7 @@
 | Trongate Template Partial (No Variables Passed) | tgtp + &lt;Tab&gt; + your file name | `<?= Template::partial('your_filename') ?>` | 24 |
 | Trongate Template Partial (Two Variables Passed) | tgtp2 + &lt;Tab&gt; + your file name + &lt;Tab&gt; + your view file or module name' | `<?= Template::partial('your_filename', 'view_file_or_module_name') ?>` | 28 |
 | Trongate This Module Function | tgtmf + &lgt;Tab&gt; + your module name | `$this->module('your_module');` | 13 |
+| Trongate This Module Function Function | tgtmff + &lt;Tab&gt; + your module\ + your function | `$this->your_module->your_function();` | 6 | 
 | Trongate This View Function | tgtvf + &lt;Tab&gt; + your view name | `$this->view('your_view');` | 16 |
 | Trongate Url Segment Function |  tgus + &lt;Tab&gt; + your segment number | `$this->url->segment($your_segment_number);` | 18 |
 | Trongate Validation Helper Run Function | tgvhr + &lt;Tab&gt; + your variable name | `$your_variable_name = $this->validation_helper->run();` | 31 |
