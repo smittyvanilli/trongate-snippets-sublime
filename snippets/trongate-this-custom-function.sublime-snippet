@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->${1:your_function}();
+]]></content>
+<tabTrigger>tgtcf</tabTrigger>
+<description>Trongate This Custom Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
