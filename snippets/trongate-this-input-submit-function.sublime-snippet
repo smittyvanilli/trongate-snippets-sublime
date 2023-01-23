@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-\$this->input->submit('submit', true);
+\$this->input('submit', true);
 ]]></content>
 <tabTrigger>tgtisf</tabTrigger>
 <description>Trongate This Input Submit Function</description>
