@@ -54,6 +54,7 @@
 | Trongate Template Function (Two Variables Passed) | tgt2 + &lt;Tab&gt; + your template name + &lt;Tab&gt; + your view file or module name | `$this->template('template_name', 'view_file_or_module_name');` | 19 |
 | Trongate Template Partial (No Variables Passed) | tgtp + &lt;Tab&gt; + your file name | `<?= Template::partial('your_filename') ?>` | 24 |
 | Trongate Template Partial (Two Variables Passed) | tgtp2 + &lt;Tab&gt; + your file name + &lt;Tab&gt; + your view file or module name' | `<?= Template::partial('your_filename', 'view_file_or_module_name') ?>` | 28 |
+| Trongate This Input Submit Function | tgtisf + &gt;Tab&lt; | `$this->input('submit', true);` | 23 |
 | Trongate This Module Function | tgtmf + &lgt;Tab&gt; + your module name | `$this->module('your_module');` | 13 |
 | Trongate This Module Function Function | tgtmff + &lt;Tab&gt; + your module\ + your function | `$this->your_module->your_function();` | 6 | 
 | Trongate This View Function | tgtvf + &lt;Tab&gt; + your view name | `$this->view('your_view');` | 16 |
