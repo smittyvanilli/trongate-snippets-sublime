@@ -2,7 +2,7 @@
 <content><![CDATA[
 form_close();
 ]]></content>
-<tabTrigger>tgfc</tabTrigger>
+<tabTrigger>tgfcf</tabTrigger>
 <description>Trongate Form Close Function</description>
 <scope>embedding.php, text.html.basic</scope>
 </snippet>
