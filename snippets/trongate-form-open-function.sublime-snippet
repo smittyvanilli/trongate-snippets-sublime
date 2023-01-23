@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+form_open('${1:form_location}');
+]]></content>
+<tabTrigger>tgfof</tabTrigger>
+<description>Trongate Form Open Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
