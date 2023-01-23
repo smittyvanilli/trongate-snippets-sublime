@@ -9,14 +9,14 @@
 | Trongate Data Array Assignment | tgda + &lt;Tab&gt; + your array name + &lt;Tab&gt; + your function name | `$your_arrayName = 'your_function_name';`  | 2 |
 | Trongate Data String Assignment | tgdsa + &lt;Tab&gt; + your view file name | `$data['view_file'] = 'your_view_file;` | 19 |
 | Trongate Echo Current Url Function | tgecu + &lt;Tab&gt; Press &lt;Tab&gt; to move the cursor after the semicolon | `echo current_url(your url);`  | 14 |
-| Trongate Echo Form Input Function | tgefif + &lt;Tab&gt; + form name + &gt;Ctrl&lt; + &gt;Enter&lt; | `echo form_input('$form_name');`  | 15 |
+| Trongate Echo Form Input Function | tgefif + &lt;Tab&gt; + form name + &lt;Ctrl&gt; + &gt;Enter&lt; | `echo form_input('$form_name');`  | 15 |
 | Trongate Echo Form Label Function | tgeflf + &lt;Tab&gt; + your label + &lt;Ctrl + Enter&gt; | `echo form_input('form_label');`  | 14 |
 | Trongate Echo Form Submit Function | tgefsf + &lt;Tab&gt; + &lt;Ctrl&gt; + &lt;Enter&gt; | `echo form_submit('submit', 'Submit');`  | 31 |
 | Trongate Echo String Function | tgesf + &lt;Tab&gt; | `echo 'my_string';` | 3
 | Trongate Form Close Function | tgfcf + &lt;Tab&gt; | `form_close();`  | 8 |
 | Trongate Form File Select Function (Two Variables Passed) | tgffs + &lt;Tab&gt; + form name + &lt;Tab&gt; + form attributes | `form_file_select('form_name', 'form_attributes');`  | 18 |
 | Trongate Form File Select Function (Three Variables Passed) | tgffs3 + &lt;Tab&gt; + form name + &lt;Tab&gt; + form attributes + &lt;Tab&gt; + form additional code | `form_file_select('form_name', 'form_attributes', 'form_additional_code');`  | 18 |
-| Trongate Form Open Function | tgfof + &gt;Tab&lt; | `form_open('form_location')` | 8 |
+| Trongate Form Open Function | tgfof + &lt;Tab&gt; | `form_open('form_location')` | 8 |
 | Trongate Form Open Upload Function | tgfou + &lt;Tab&gt; + your form's location + &lt;Tab&gt; the attributes + &lt;Tab&gt; any additional code | `form_open_upload($form_location, $attributes, $additional_code);`  | 20 |
 | Trongate Form Textarea Function | tgeft + &lt;Tab&gt; + your text | `echo form_textarea('your_text');`  | 17 |
 | Trongate Function | tgf + your code | function your\_function() {<br> &nbsp;&nbsp;&nbsp;your code goes here<br>} | 14 |
@@ -34,8 +34,8 @@
 | Trongate Method (Three Variables Passed) | tgm3 + &lt;Tab&gt; + name your function + &lt;Tab&gt; + name of your first variable to pass + &lt;Tab&gt; + name of your second variable to pass &lt;Tab&gt; + name of your third variable to pass + &lt;Tab&gt; to move cursor to method statements | `function your_function(your_variable1, your_variable2, your_variable3) { Your method code goes here. }` | 11 |
 | Trongate Model Delete Function | tgmd + &lt;Tab&gt; + number / id in table to delete + &lt;Tab&gt; + table name for deletion | `$this->model->delete(id, 'tableName');` | 19 |
 | Trongate Model Get Function (Two Variables Passed) | tgmg + &lt;Tab&gt; + enter which way you want the model ordered by + &lt;Tab&gt; + your target table | `$this->model->get('order_by', 'target_tbl');` | 16 |
-| Trongate Model Get Function (Three Variables Passed) | tgmg3 + &lt;Tabgt; + enter which way you want the model ordered by + &lt;Tab&gt; + your target table &lt;Tab&gt; + your limit | `$this->model->get('order_by', 'target_tbl', 'limit');` | 22 |
-| Trongate Model Get Function (Four Variables Passed) | tgmg4 + &lt;Tabgt; + enter which way you want the model ordered by + &lt;Tab&gt; + your target table &lt;Tab&gt; + your limit + &lt;Tab&gt; + your offset | `$this->model->get('order_by', 'target_tbl', 'limit', 'offset');` | 26 |
+| Trongate Model Get Function (Three Variables Passed) | tgmg3 + &lt;Tab&gt; + enter which way you want the model ordered by + &lt;Tab&gt; + your target table &lt;Tab&gt; + your limit | `$this->model->get('order_by', 'target_tbl', 'limit');` | 22 |
+| Trongate Model Get Function (Four Variables Passed) | tgmg4 + &lt;Tab&gt; + enter which way you want the model ordered by + &lt;Tab&gt; + your target table &lt;Tab&gt; + your limit + &lt;Tab&gt; + your offset | `$this->model->get('order_by', 'target_tbl', 'limit', 'offset');` | 26 |
 | Trongate Model Getwhere Function | tgmgw + &lt;Tab&gt; + target id +  + target table name | `$this->model->get_where('id', 'target_tbl');` | 25 |
 | Trongate Model Insert Function (Two Variables Passed) | tgmi + &lt;Tab&gt; + data + &lt;Tab&gt; + target table name | `$this->model->insert('data', 'target_tbl');` | 23 |
 | Trongate Model Update Function (Three Variables Passed) | tgmu + &lt;Tab&gt; + enter update id + &lt;Tab&gt; + enter record name + &lt;Tab&gt; + enter table name | `$this->model->update('update_id', 'record_name', 'table_name');` | 26 |
@@ -54,9 +54,9 @@
 | Trongate Template Function (Two Variables Passed) | tgt2 + &lt;Tab&gt; + your template name + &lt;Tab&gt; + your view file or module name | `$this->template('template_name', 'view_file_or_module_name');` | 19 |
 | Trongate Template Partial (No Variables Passed) | tgtp + &lt;Tab&gt; + your file name | `<?= Template::partial('your_filename') ?>` | 24 |
 | Trongate Template Partial (Two Variables Passed) | tgtp2 + &lt;Tab&gt; + your file name + &lt;Tab&gt; + your view file or module name' | `<?= Template::partial('your_filename', 'view_file_or_module_name') ?>` | 28 |
-| Trongate This Input Submit Function | tgtisf + &gt;Tab&lt; | `$this->input('submit', true);` | 23 |
-| Trongate This Module Function | tgtmf + &lgt;Tab&gt; + your module name | `$this->module('your_module');` | 13 |
-| Trongate This Module Function Function | tgtmff + &lt;Tab&gt; + your module\ + your function | `$this->your_module->your_function();` | 6 | 
+| Trongate This Input Submit Function | tgtisf + &lt;Tab&gt; | `$this->input('submit', true);` | 23 |
+| Trongate This Module Function | tgtmf + &lt;Tab&gt; + your module name | `$this->module('your_module');` | 13 |
+| Trongate This Module Function Function | tgtmff + &lt;Tab&gt; + your module + your function name | `$this->your_module->your_function();` | 6 | 
 | Trongate This View Function | tgtvf + &lt;Tab&gt; + your view name | `$this->view('your_view');` | 16 |
 | Trongate Url Segment Function |  tgus + &lt;Tab&gt; + your segment number | `$this->url->segment($your_segment_number);` | 18 |
 | Trongate Validation Helper Run Function | tgvhr + &lt;Tab&gt; + your variable name | `$your_variable_name = $this->validation_helper->run();` | 31 |
