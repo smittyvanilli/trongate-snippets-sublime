@@ -16,6 +16,7 @@
 | Trongate Form Close Function | tgfc + &lt;Tab&gt; | `form_close();`  | 8 |
 | Trongate Form File Select Function (Two Variables Passed) | tgffs + &lt;Tab&gt; + form name + &lt;Tab&gt; + form attributes | `form_file_select('form_name', 'form_attributes');`  | 18 |
 | Trongate Form File Select Function (Three Variables Passed) | tgffs3 + &lt;Tab&gt; + form name + &lt;Tab&gt; + form attributes + &lt;Tab&gt; + form additional code | `form_file_select('form_name', 'form_attributes', 'form_additional_code');`  | 18 |
+| Trongate Form Open Function | tgfof + &gt;Tab&lt; | `form_open('form_location')` | 8 |
 | Trongate Form Open Upload Function | tgfou + &lt;Tab&gt; + your form's location + &lt;Tab&gt; the attributes + &lt;Tab&gt; any additional code | `form_open_upload($form_location, $attributes, $additional_code);`  | 20 |
 | Trongate Form Textarea Function | tgeft + &lt;Tab&gt; + your text | `echo form_textarea('your_text');`  | 17 |
 | Trongate Function | tgf + your code | function your\_function() {<br> &nbsp;&nbsp;&nbsp;your code goes here<br>} | 14 |
