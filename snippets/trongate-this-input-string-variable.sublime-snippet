@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->input('${1:your_string}', true);
+]]></content>
+<tabTrigger>tgtistf</tabTrigger>
+<description>Trongate This Input String True Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
