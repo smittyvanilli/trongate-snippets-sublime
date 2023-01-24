@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->_${1:your_function}();
+]]></content>
+<tabTrigger>tgtpf</tabTrigger>
+<description>Trongate This Private Function (No Variabls Passed)</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
