@@ -58,6 +58,7 @@
 | Trongate This Input Submit Function | tgtisf + &lt;Tab&gt; | `$this->input('submit', true);` | 23 |
 | Trongate This Module Function | tgtmf + &lt;Tab&gt; + your module name | `$this->module('your_module');` | 13 |
 | Trongate This Module Function Function | tgtmff + &lt;Tab&gt; + your module + your function name | `$this->your_module->your_function();` | 6 | 
+| Trongate This Private Functione | tgtpf + &lt;Tab&gt; + function name | `$this->_function_name();` | 6 |
 | Trongate This View Function | tgtvf + &lt;Tab&gt; + your view name | `$this->view('your_view');` | 16 |
 | Trongate Url Segment Function |  tgus + &lt;Tab&gt; + your segment number | `$this->url->segment($your_segment_number);` | 18 |
 | Trongate Validation Helper Run Function | tgvhr + &lt;Tab&gt; + your variable name | `$your_variable_name = $this->validation_helper->run();` | 31 |
