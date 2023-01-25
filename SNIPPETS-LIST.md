@@ -59,6 +59,7 @@
 | Trongate This Custom Function | tgtcf + &lt;Tab&gt; | `$this->your_function();` | 5 |
 | Trongate This Input String True Function | tgtisitf + &lt;Tab&gt; your string + &lt;Tab&gt; + your variable | `$this->input('your_string', variable_name);` | 13 |
 | Trongate This Input Submit Function | tgtisf + &lt;Tab&gt; | `$this->input('submit', true);` | 23 |
+| Trongate This Model Insert Function | tgtmif + &lt;Tab&gt; + model name | `$this->model('model_name');` | 10 |
 | Trongate This Module Function | tgtmf + &lt;Tab&gt; + your module name | `$this->module('your_module');` | 13 |
 | Trongate This Module Function Function | tgtmff + &lt;Tab&gt; + your module + your function name | `$this->your_module->your_function();` | 6 | 
 | Trongate This Private Functione | tgtpf + &lt;Tab&gt; + function name | `$this->_function_name();` | 6 |
