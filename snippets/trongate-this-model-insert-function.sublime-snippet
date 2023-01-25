@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->model->insert('${1:module_name}');
+]]></content>
+<tabTrigger>tgtmi</tabTrigger>
+<description>Trongate This Model Insert Function</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
