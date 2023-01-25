@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-${1:your_array_name} = '${2:your_function_name}';
+\$${1:your_array_name} = '${2:your_function_name}';
 ]]></content>
 <tabTrigger>tgdaa</tabTrigger>
 <description>Trongate Data Array Assignment</description>
