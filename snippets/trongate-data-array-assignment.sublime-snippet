@@ -2,7 +2,7 @@
 <content><![CDATA[
 ${1:your_array_name} = '${2:your_function_name}';
 ]]></content>
-<tabTrigger>tgda</tabTrigger>
+<tabTrigger>tgdaa</tabTrigger>
 <description>Trongate Data Array Assignment</description>
 <scope>embedding.php, text.html.basic</scope>
 </snippet>
