@@ -1,4 +1,4 @@
-*Disclaimer: I will be getting rid of all extra 'f' keys as there are many functions in this list. For example, Trongate Add Floating Cents Function is not 'tgafcf'. It is only 'tgafc' the hit the Tab key. Enjoy the added speed using these snippets!*
+*Disclaimer: I will be getting rid of all extra 'f' keys as there are many functions in this list. For example, Trongate Add Floating Cents Function is not 'tgafcf'. It is only 'tgafc' then hit the Tab key. Enjoy the added speed using these snippets!*
 
 # Table of Trongate snippets
 
