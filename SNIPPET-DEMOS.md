@@ -1,7 +1,7 @@
 # Sublime Text Trongate Snippets Demonstration Videos
 
-| Snippet Name | Shortcut | Demonstration Link |
-
+| Snippet Name Demonstration Link | Shortcut Keys |  
+| -------------------------------------------- | ------------- |  
 | [Trongate Add Floating Cents Function (Two Variables Passed)](https://icedrive.net/s/2i9ziYYNhZzVxwPvbY4gDvgkPQGb)| tgafc + &lt;Tab&gt; + your amount in dollars |  
 | [Trongate Anchor Function](https://icedrive.net/s/tXGigDYg2ffwGatkgNQ6FQ65VChB) | tga + &lt;Tab&gt; + your link |  
 | [Trongate Class](https://icedrive.net/s/hz69ZGx2ABZgPua9fzTPZzt3GNaw)| tgc + &lt;Tab&gt; + Enter Your Classname + &lt;Tab&gt; + Enter your Class statements |  
