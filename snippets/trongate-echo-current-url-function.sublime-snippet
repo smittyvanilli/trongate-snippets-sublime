@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-echo current_url(${1:your url});
+echo current_url('${1:your url}');
 ]]></content>
 <tabTrigger>tgecu</tabTrigger>
 <description>Trongate Echo Current Url Function</description>
