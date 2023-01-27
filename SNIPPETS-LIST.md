@@ -10,7 +10,7 @@
 | Trongate Config Array Assignment | tgcaa + &lt;Tab&gt; + your first variable name + &lt;Tab&gt; + your second variable name | `config[$your_variable1] = $your_variable2;` | 8 |
 | Trongate Data Array Assignment | tgdaa + &lt;Tab&gt; + your array name + &lt;Tab&gt; + your function name | `$your_arrayName = 'your_function_name';`  | 2 |
 | Trongate Data String Assignment | tgdsa + &lt;Tab&gt; + your view file name | `$data['view_file'] = 'your_view_file';` | 19 |
-| Trongate Echo Current Url Function | tgecu + &lt;Tab&gt; Press &lt;Tab&gt; to move the cursor after the semicolon | `echo current_url(your url);`  | 14 |
+| Trongate Echo Current Url Function | tgecu + &lt;Tab&gt; Press &lt;Tab&gt; to move the cursor after the semicolon | `echo current_url('your url');`  | 14 |
 | Trongate Echo Form Input Function | tgefif + &lt;Tab&gt; + form name + &lt;Ctrl&gt; + &gt;Enter&lt; | `echo form_input('$form_name');`  | 15 |
 | Trongate Echo Form Label Function | tgeflf + &lt;Tab&gt; + your label + &lt;Ctrl + Enter&gt; | `echo form_input('form_label');`  | 14 |
 | Trongate Echo Form Submit Function | tgefsf + &lt;Tab&gt; + &lt;Ctrl&gt; + &lt;Enter&gt; | `echo form_submit('submit', 'Submit');`  | 31 |
